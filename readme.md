@@ -14,16 +14,16 @@
 ***
 ## Description
 
-This project [Plant Home Page]() was built using Semantic HTML and CSS. While building this webpage I learnt about id selectors which are unique for an element and various Css properties and flexbox properties. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Plant Home Page](https://plants-page.netlify.app/) was built using Semantic HTML and CSS. While building this webpage I learnt about id selectors which are unique for an element and various Css properties and flexbox properties. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://plants-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/LiBc63yy0AA)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Plant-Home-Page)
 
 ***
 ### Built With 
@@ -64,17 +64,17 @@ This project [Plant Home Page]() was built using Semantic HTML and CSS. While bu
 ### Checkout Portfolio & Other Projects
 <br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#plant-home-page)
